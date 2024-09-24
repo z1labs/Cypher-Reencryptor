@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "ES6",
+    "esModuleInterop": true,
+    "baseUrl": "./",
+    "typeRoots": ["./types", "./node_modules/@types"]
+  },
+  "ts-node": {
+    "compiler": "typescript"
+  }
+}
